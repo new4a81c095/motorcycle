@@ -1,0 +1,83 @@
+body{
+    width: 1907px;
+    height: 858px;
+    background-color: rgb(0, 0, 0);
+    
+}
+.relativeBackground{
+    position: relative;
+    top: 59px;
+    left: 3.5px;
+}
+.absolutBackground{
+    position: absolute;
+    top: 10px;
+    left: 7.5px;
+}
+.absolutLeft{
+    position: absolute;
+    top: 0px;
+    left: -10px;
+}
+.button{
+    position: absolute;
+    left: 1055.5px;
+    top: 157px;
+}
+.button1{
+    position: absolute;
+    left: 1055.5px;
+    top: 322px;
+}
+
+.absolutRight{
+    position: absolute;
+    top: 0px;
+    left: 1517px;
+}
+.absolutSensing{
+    position: absolute;
+    top: 23px;
+    left: 1167px;
+}
+.absolutSensingMotorcycle{
+    position: absolute;
+    top: 195px;
+    left: 1341px;
+}
+
+.absolutcar{
+    position: absolute;
+    left: 1055.5px;
+    top: 27.5px;
+}
+.absolutCircle{
+    position: absolute;
+    top: 16px;
+    left: 152px;
+}
+.absolutTime{
+    position: absolute;
+    top: 70px;
+    left: 332px;
+}
+.absolutSpeed{
+    position: absolute;
+    top: 267px;
+    left: 149px;
+}
+.absolutSmallCircle{
+    position: absolute;
+    top: 594px;
+    left: 102px;
+}
+.absolutElectricity{
+    position: absolute;
+    top: 654px;
+    left: 187px;
+}
+.absolutKm{
+    position: absolute;
+    top: 654px;
+    left: 398px;
+}
